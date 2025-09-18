@@ -66,7 +66,7 @@ DELIMITER ;
 1. Clone the repo
 2. Run the schema SQL files to create tables
 3. Load sample data
-4. Execute the queries from queries/
+4. Execute the queries from queries
 5. Use MySQL Workbench to view the EER diagram
 
 
