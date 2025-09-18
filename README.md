@@ -71,6 +71,7 @@ DELIMITER ;
 
 
 👨‍💻 Author
-Mohit Sharma
-Email:mohit20195@gmail.com
+👤 Mohit Sharma
+📞 +91-9001563116
+📧 mohit20195@gmail.com
 
