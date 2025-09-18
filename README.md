@@ -48,7 +48,7 @@ FROM (
 GROUP BY route_id;
 
 
-  **Create a stored procedure to fetch long routes:**
+📌 Create a stored procedure to fetch long routes:
 DELIMITER //
 
 CREATE PROCEDURE routes_more_than_2000()
