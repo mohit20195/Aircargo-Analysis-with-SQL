@@ -3,7 +3,7 @@ SQL project for managing and analyzing Flight, Passenger, and Ticket data in an 
 
 # ✈️ AirCargo SQL Project
 
-This project demonstrates a complete SQL-based solution for managing and analyzing data in an air cargo system.
+This project demonstrates a complete SQL-based solution for managing and analyzing data in an air cargo system. It includes everything from raw data and queries to advanced features like views, stored procedures, and index optimization.
 
 ## 📂 Project Structure
 
@@ -16,6 +16,7 @@ This project demonstrates a complete SQL-based solution for managing and analyzi
 ## 💡 Features
 
 - Complex JOINs and subqueries
+- EER Diagram
 - Aggregation using `GROUP BY`, `ROLLUP`, and window functions
 - Views and stored procedures
 - Index creation and analysis with `EXPLAIN`
@@ -59,6 +60,14 @@ END //
 
 DELIMITER ;
 
+
+🏁 How to Use
+
+1. Clone the repo
+2. Run the schema SQL files to create tables
+3. Load sample data
+4. Execute the queries from queries/
+5. Use MySQL Workbench to view the EER diagram
 
 
 👨‍💻 Author
